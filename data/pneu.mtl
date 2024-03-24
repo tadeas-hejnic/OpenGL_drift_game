@@ -1,0 +1,12 @@
+# Blender MTL File: 'pneu_obstacle.blend'
+# Material Count: 1
+
+newmtl yellow
+Ns 119.338862
+Ka 1.000000 1.000000 1.000000
+Kd 0.839685 0.466975 0.000000
+Ks 0.281818 0.281818 0.281818
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
